@@ -9,4 +9,4 @@ function tuplesFromTwoArrays(arr1, arr2) {
     );
 }
 
-console.log(tuplesFromTwoArrays([1, 2, 3], [4, 5, 6, 7]));
+// console.log(tuplesFromTwoArrays([1, 2, 3], [4, 5, 6, 7]));
